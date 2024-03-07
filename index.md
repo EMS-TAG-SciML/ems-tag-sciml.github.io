@@ -16,7 +16,19 @@ layout: home
 
 <br/>
 
-## About the Group
+In recent years, the combination of numerical methods and machine learning has gained an ever increasing interest as a research field within Numerical Mathematics and Scientific Computing. To further foster this development on a European level, the Topical Activity Group Scientific Machine Learning [1] (SciML) of the European Mathematical Society (EMS TAG SciML) has been established. 
+
+Currently, there exist numerous SciML activities on national levels within Europe which are not or only very loosely connected. Often, information on existing and upcoming activities, for example workshops, semester programs, or funding opportunities are only exchanged on a personal and unsystematic level. The proposed EMS TAG SciML should help to coordinate the existing national and regional activities and initiate new ones on the European level, including conferences and summer schools, funding initiatives, and the exchange of young and senior researchers.
+
+In the EMS TAG SciML, we will consider specifically – although not exclusively - the aspect of Scientific Machine Learning as a subfield of Numerical Mathematics and Scientific Computing which can be further divided into two classes: machine- learning-enhanced numerics and numerically efficient machine learning.
+
+By machine-learning-enhanced numerics, the range of tractable problems as well as the efficiency and robustness of numerical methods can be tremendously increased, for example by (i) learning of numerical parameters such as relaxation parameters, adaptivity criteria, or regularization weights, (ii) learned components in model reduction or multi-scale methods, (iii) generation of good initial guesses for iterative solvers, (iv) decisions between different options such as parallelization strategies or different types of solvers for (non-)linear systems of equations, (v) load balancing based on learned performance models. Here, challenges are expected in terms of stability requirements, convergence or, more general, quality guarantees.
+
+In the field of numerically efficient machine learning, new or improved numerical algorithms are used to tune state-of-the-art learning methods. We foresee increased computational efficiency and parallel scalability as well as numerical robustness of modern machine learning algorithms. For example, improvements in the training phase are expected by (i) enhanced optimization methods, (ii) sparsification, regularization, and error control, (iii) parallel numerical methods with improved scalability and reduced communication. Machine learning challenges the traditional numerical methods in many of the aforementioned aspects and poses new questions for research in Numerical Mathematics.
+
+<i>[1] The term “Scientific Machine Learning” (SciML) has been coined at a workshop of the US Department of Energy in January 2018; for a broader description of the field, see the resulting report [osti.gov/servlets/purl/1478744](https://www.osti.gov/servlets/purl/1478744).</i>
+
+## Group Members 
 
 > **More information will follow soon.**
 
