@@ -30,20 +30,22 @@ In the field of numerically efficient machine learning, new or improved numerica
 
 ## Group Members 
 
+<i>(in alphabetical order)</i>
+
 * [Prof. Dr. Peter Benner](mailto:benner@mpi-magdeburg.mpg.de), EMS member, Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, Germany
-* [Prof. Dr. Bruno Despres](bruno.despres@sorbonne-universite.fr), EMS member, Jacques-Louis Lions Laboratory, Sorbonne University, France
-* [Prof. Dr. Victorita Dolean](victorita.dolean@strath.ac.uk), EMS member, Dept. of Mathematics and Statistics University of Strathclyde, Glasgow, UK
-* [Prof. Dr. Virginie Ehrlacher](virginie.ehrlacher@enpc.fr), EMS member, Ecole des Ponts Paris Tech, Paris, France
-* [Assistant Prof. Dr. Alexander Heinlein](email: A.Heinlein@tudelft.nl), EMS member, Delft University of Technology, Delft, The Netherlands
-* [Prof. Dr. Jan Hesthaven](jan.hesthaven@epfl.ch), Chair of Computational Mathematics and Simulation Science, EPFL, Lausanne, Switzerland
-* <b>[Prof. Dr. Axel Klawonn](axel.klawonn@uni-koeln.de) (Spokesperson)</b>, Chair of Applied Mathematics and Scientific Computing, University of Cologne, Cologne, Germany
-* [Prof. Dr. Rolf Krause](rolf.krause@usi.ch), Chair for Advanced Scientific Computing, Euler Institute, Universit á della Svizzera italiana, Lugano, Switzerland
-* [Associate Prof. Dr. Olga Mula](o.mula@tue.nl), Center for Analysis, Scientific Computing and Applications, Eindhoven University of Technology, Eindhoven, The Netherlands
-* [Associate Prof. Dr. Ozan Öktem](ozan@kth.se), Numerik, Optimering, and System, KTH Stockholm, Stockholm, Sweden
-* [Prof. Dr. Gianluigi Rozza](grozza@sissa.it), EMS member, SISSA, Trieste, Italy
-* [Prof. Dr. Benjamin Sanderse](B.Sanderse@cwi.nl), Department of Scientific Computing, CWI, Amsterdam, The Netherlands
-* [Prof. Dr. Marco Verani](marco.verani@polimi.it), EMS member, MOX - Laboratory for Modeling and Scientific Computing, Politecnico di Milano, Milan, Italy
-* [Prof. Dr. Andrea Walther](andrea.walther@math.hu-berlin.de), EMS member, Department of Mathematics, Humboldt-University of Berlin, Berlin, Germany
+* [Prof. Dr. Bruno Despres](mailto:bruno.despres@sorbonne-universite.fr), EMS member, Jacques-Louis Lions Laboratory, Sorbonne University, France
+* [Prof. Dr. Victorita Dolean](mailto:victorita.dolean@strath.ac.uk), EMS member, Dept. of Mathematics and Statistics University of Strathclyde, Glasgow, UK
+* [Prof. Dr. Virginie Ehrlacher](mailto:virginie.ehrlacher@enpc.fr), EMS member, Ecole des Ponts Paris Tech, Paris, France
+* [Assistant Prof. Dr. Alexander Heinlein](mailto:a.heinlein@tudelft.nl), EMS member, Delft University of Technology, Delft, The Netherlands
+* [Prof. Dr. Jan Hesthaven](mailto:jan.hesthaven@epfl.ch), Chair of Computational Mathematics and Simulation Science, EPFL, Lausanne, Switzerland
+* <b>[Prof. Dr. Axel Klawonn](mailto:axel.klawonn@uni-koeln.de) (Spokesperson)</b>, Chair of Applied Mathematics and Scientific Computing, University of Cologne, Cologne, Germany
+* [Prof. Dr. Rolf Krause](mailto:rolf.krause@usi.ch), Chair for Advanced Scientific Computing, Euler Institute, Universit á della Svizzera italiana, Lugano, Switzerland
+* [Associate Prof. Dr. Olga Mula](mailto:o.mula@tue.nl), Center for Analysis, Scientific Computing and Applications, Eindhoven University of Technology, Eindhoven, The Netherlands
+* [Associate Prof. Dr. Ozan Öktem](mailto:ozan@kth.se), Numerik, Optimering, and System, KTH Stockholm, Stockholm, Sweden
+* [Prof. Dr. Gianluigi Rozza](mailto:grozza@sissa.it), EMS member, SISSA, Trieste, Italy
+* [Prof. Dr. Benjamin Sanderse](mailto:b.sanderse@cwi.nl), Department of Scientific Computing, CWI, Amsterdam, The Netherlands
+* [Prof. Dr. Marco Verani](mailto:marco.verani@polimi.it), EMS member, MOX - Laboratory for Modeling and Scientific Computing, Politecnico di Milano, Milan, Italy
+* [Prof. Dr. Andrea Walther](mailto:andrea.walther@math.hu-berlin.de), EMS member, Department of Mathematics, Humboldt-University of Berlin, Berlin, Germany
 
 ## Events
 
