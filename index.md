@@ -47,6 +47,8 @@ In the field of numerically efficient machine learning, new or improved numerica
 * [Prof. Dr. Marco Verani](mailto:marco.verani@polimi.it), EMS member, MOX - Laboratory for Modeling and Scientific Computing, Politecnico di Milano, Milan, Italy
 * [Prof. Dr. Andrea Walther](mailto:andrea.walther@math.hu-berlin.de), EMS member, Department of Mathematics, Humboldt-University of Berlin, Berlin, Germany
 
-## Events
+## Upcoming Events
 
-> **More information will follow soon.**
+| April 25 – 26, 2024 | <a href="https://searhein.github.io/gamm-cominds-2024/" target="_blank">Workshop on Computational and Mathematical Methods in Data Science 2024</a> | Delft, The Netherlands |
+| July 8 – 12, 2024 | <a href="https://irma.math.unistra.fr/~micheldansac/SciML2024/" target="_blank">Workshop on Scientific Machine Learning</a> | Strasbourg, France |
+
