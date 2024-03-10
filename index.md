@@ -28,9 +28,11 @@ In the field of numerically efficient machine learning, new or improved numerica
 
 <i>[1] The term “Scientific Machine Learning” (SciML) has been coined at a workshop of the US Department of Energy in January 2018; for a broader description of the field, see the resulting report [osti.gov/servlets/purl/1478744](https://www.osti.gov/servlets/purl/1478744).</i>
 
-## Group Members 
+## Group Members
 
-<i>(in alphabetical order)</i>
+<b>Spokesperson:</b> [Prof. Dr. Axel Klawonn](mailto:axel.klawonn@uni-koeln.de), Chair of Applied Mathematics and Scientific Computing, University of Cologne, Cologne, Germany
+
+<b>Members in alphabetical order:</b>
 
 * [Prof. Dr. Peter Benner](mailto:benner@mpi-magdeburg.mpg.de), EMS member, Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, Germany
 * [Prof. Dr. Bruno Despres](mailto:bruno.despres@sorbonne-universite.fr), EMS member, Jacques-Louis Lions Laboratory, Sorbonne University, France
@@ -38,7 +40,7 @@ In the field of numerically efficient machine learning, new or improved numerica
 * [Prof. Dr. Virginie Ehrlacher](mailto:virginie.ehrlacher@enpc.fr), EMS member, Ecole des Ponts Paris Tech, Paris, France
 * [Assistant Prof. Dr. Alexander Heinlein](mailto:a.heinlein@tudelft.nl), EMS member, Delft University of Technology, Delft, The Netherlands
 * [Prof. Dr. Jan Hesthaven](mailto:jan.hesthaven@epfl.ch), Chair of Computational Mathematics and Simulation Science, EPFL, Lausanne, Switzerland
-* <b>[Prof. Dr. Axel Klawonn](mailto:axel.klawonn@uni-koeln.de) (Spokesperson)</b>, Chair of Applied Mathematics and Scientific Computing, University of Cologne, Cologne, Germany
+* [Prof. Dr. Axel Klawonn](mailto:axel.klawonn@uni-koeln.de) (Spokesperson), Chair of Applied Mathematics and Scientific Computing, University of Cologne, Cologne, Germany
 * [Prof. Dr. Rolf Krause](mailto:rolf.krause@usi.ch), Chair for Advanced Scientific Computing, Euler Institute, Universit á della Svizzera italiana, Lugano, Switzerland
 * [Associate Prof. Dr. Olga Mula](mailto:o.mula@tue.nl), Center for Analysis, Scientific Computing and Applications, Eindhoven University of Technology, Eindhoven, The Netherlands
 * [Associate Prof. Dr. Ozan Öktem](mailto:ozan@kth.se), Numerik, Optimering, and System, KTH Stockholm, Stockholm, Sweden
