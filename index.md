@@ -35,13 +35,13 @@ In the field of numerically efficient machine learning, new or improved numerica
 <b>Members in alphabetical order:</b>
 
 * [Peter Benner](mailto:benner@mpi-magdeburg.mpg.de), Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, Germany
-* [Bruno Despres](mailto:bruno.despres@sorbonne-universite.fr), Jacques-Louis Lions Laboratory, Sorbonne University, France
+* [Bruno Després](mailto:bruno.despres@sorbonne-universite.fr), Jacques-Louis Lions Laboratory, Sorbonne University, France
 * [Victorita Dolean](mailto:victorita.dolean@strath.ac.uk), Dept. of Mathematics and Statistics University of Strathclyde, Glasgow, UK
 * [Virginie Ehrlacher](mailto:virginie.ehrlacher@enpc.fr), Ecole des Ponts Paris Tech, Paris, France
 * [Alexander Heinlein](mailto:a.heinlein@tudelft.nl), Delft University of Technology, Delft, The Netherlands
 * [Jan Hesthaven](mailto:jan.hesthaven@epfl.ch), Chair of Computational Mathematics and Simulation Science, EPFL, Lausanne, Switzerland
 * [Axel Klawonn](mailto:axel.klawonn@uni-koeln.de) (Spokesperson), Chair of Applied Mathematics and Scientific Computing, University of Cologne, Cologne, Germany
-* [Rolf Krause](mailto:rolf.krause@usi.ch), Chair for Advanced Scientific Computing, Euler Institute, Universit á della Svizzera italiana, Lugano, Switzerland
+* [Rolf Krause](mailto:rolf.krause@usi.ch), Chair for Advanced Scientific Computing, Euler Institute, Università della Svizzera italiana, Lugano, Switzerland
 * [Olga Mula](mailto:o.mula@tue.nl), Center for Analysis, Scientific Computing and Applications, Eindhoven University of Technology, Eindhoven, The Netherlands
 * [Ozan Öktem](mailto:ozan@kth.se), Numerik, Optimering, and System, KTH Stockholm, Stockholm, Sweden
 * [Gianluigi Rozza](mailto:grozza@sissa.it), SISSA, Trieste, Italy
@@ -52,5 +52,5 @@ In the field of numerically efficient machine learning, new or improved numerica
 ## Upcoming Events
 
 | April 25 – 26, 2024 | <a href="https://searhein.github.io/gamm-cominds-2024/" target="_blank">Workshop on Computational and Mathematical Methods in Data Science 2024</a> <br/> Organized by Alexander Heinlein | Delft, The Netherlands |
-| June 17 – 21, 2024 | <a href="https://indico.sissa.it/event/107/" target="_blank">Mathematical Scientific Machine Learning (MSML24)</a> <br/> Co-Organized by Bruno Despres and Victorita Dolean | Rome, Italy |
-| July 8 – 12, 2024 | <a href="https://irma.math.unistra.fr/~micheldansac/SciML2024/" target="_blank">Workshop on Scientific Machine Learning</a> <br/> Co-Organized by Gianluigi Rozza | Strasbourg, France |
+| June 17 – 21, 2024 | <a href="https://indico.sissa.it/event/107/" target="_blank">Mathematical Scientific Machine Learning (MSML24)</a> <br/> Co-Organized by Gianluigi Rozza | Rome, Italy |
+| July 8 – 12, 2024 | <a href="https://irma.math.unistra.fr/~micheldansac/SciML2024/" target="_blank">Workshop on Scientific Machine Learning</a> <br/> Co-Organized by Bruno Després and Victorita Dolean | Strasbourg, France |
