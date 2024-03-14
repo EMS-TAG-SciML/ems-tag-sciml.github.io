@@ -36,7 +36,7 @@ In the field of numerically efficient machine learning, new or improved numerica
 
 * [Peter Benner](mailto:benner@mpi-magdeburg.mpg.de), Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, Germany
 * [Bruno Després](mailto:bruno.despres@sorbonne-universite.fr), Jacques-Louis Lions Laboratory, Sorbonne University, France
-* [Victorita Dolean](mailto:victorita.dolean@strath.ac.uk), Dept. of Mathematics and Statistics University of Strathclyde, Glasgow, UK
+* [Victorita Dolean](mailto:victorita.dolean@strath.ac.uk), Dept. of Mathematics and Computer Science, Eindhoven University of Technology, Eindhoven, The Netherlands
 * [Virginie Ehrlacher](mailto:virginie.ehrlacher@enpc.fr), Ecole des Ponts Paris Tech, Paris, France
 * [Alexander Heinlein](mailto:a.heinlein@tudelft.nl), Delft University of Technology, Delft, The Netherlands
 * [Jan Hesthaven](mailto:jan.hesthaven@epfl.ch), Chair of Computational Mathematics and Simulation Science, EPFL, Lausanne, Switzerland
@@ -54,3 +54,8 @@ In the field of numerically efficient machine learning, new or improved numerica
 | April 25 – 26, 2024 | <a href="https://searhein.github.io/gamm-cominds-2024/" target="_blank">Workshop on Computational and Mathematical Methods in Data Science 2024</a> <br/> Organized by Alexander Heinlein | Delft, The Netherlands |
 | June 17 – 21, 2024 | <a href="https://indico.sissa.it/event/107/" target="_blank">Mathematical Scientific Machine Learning (MSML24)</a> <br/> Co-organized by Gianluigi Rozza | Trieste, Italy |
 | July 8 – 12, 2024 | <a href="https://irma.math.unistra.fr/~micheldansac/SciML2024/" target="_blank">Workshop on Scientific Machine Learning</a> <br/> Co-organized by Bruno Després and Victorita Dolean | Strasbourg, France |
+
+
+## Past Events
+
+| February 27 – March 1, 2024 | <a href="https://www.siam.org/conferences/cm/conference/uq24" target="_blank">SIAM Conference on Uncertainty Quantification (UQ24)</a> | Trieste, Italy |
