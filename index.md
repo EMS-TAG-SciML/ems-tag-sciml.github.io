@@ -60,7 +60,7 @@ In the field of numerically efficient machine learning, new or improved numerica
 ## Upcoming Events
 
 | April 25 – 26, 2024 | <a href="https://searhein.github.io/gamm-cominds-2024/" target="_blank">Workshop on Computational and Mathematical Methods in Data Science 2024</a> <br/> Organized by Alexander Heinlein | Delft, The Netherlands |
-| June 17 – 21, 2024 | <a href="https://indico.sissa.it/event/107/" target="_blank">Mathematical Scientific Machine Learning (MSML24)</a> <br/> Co-organized by Gianluigi Rozza | Trieste, Italy |
+| June 18 – 21, 2024 | <a href="https://indico.sissa.it/event/107/" target="_blank">Scientific Machine Learning, emerging topics</a> <br/> Co-organized by Gianluigi Rozza | Trieste, Italy |
 | July 8 – 12, 2024 | <a href="https://irma.math.unistra.fr/~micheldansac/SciML2024/" target="_blank">Workshop on Scientific Machine Learning</a> <br/> Co-organized by Bruno Després and Victorita Dolean | Strasbourg, France |
 
 
