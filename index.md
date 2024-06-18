@@ -40,6 +40,15 @@ In the field of numerically efficient machine learning, new or improved numerica
 
 <b>Spokesperson:</b> [Axel Klawonn](mailto:axel.klawonn@uni-koeln.de), Chair of Applied Mathematics and Scientific Computing, University of Cologne, Cologne, Germany
 
+<b>Co-Spokespersons:</b>
+
+[Virginie Ehrlacher](mailto:virginie.ehrlacher@enpc.fr), Ecole des Ponts Paris Tech, Paris, France
+
+[Olga Mula](mailto:o.mula@tue.nl), Center for Analysis, Scientific Computing and Applications, Eindhoven University of Technology, Eindhoven, The Netherlands
+
+To contact the spokespersons, send an e-mail to ems-tag-sciml-chair@listes.math.cnrs.fr
+
+
 <b>Members in alphabetical order:</b>
 
 * [Peter Benner](mailto:benner@mpi-magdeburg.mpg.de), Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, Germany
