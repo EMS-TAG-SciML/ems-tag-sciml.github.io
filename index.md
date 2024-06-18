@@ -82,4 +82,5 @@ To contact the spokespersons, send an e-mail to [ems-tag-sciml-chair@listes.math
 ## Past Events
 
 | February 27 – March 1, 2024 | <a href="https://www.siam.org/conferences/cm/conference/uq24" target="_blank">SIAM Conference on Uncertainty Quantification (UQ24)</a> | Trieste, Italy |
+| April 25 – 26, 2024 | <a href="https://searhein.github.io/gamm-cominds-2024/" target="_blank">Workshop on Computational and Mathematical Methods in Data Science 2024</a> <br/> Organized by Alexander Heinlein | Delft, The Netherlands |
 -->
