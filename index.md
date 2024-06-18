@@ -75,7 +75,7 @@ To contact the spokespersons, send an e-mail to [ems-tag-sciml-chair@listes.math
 
 | June 18 – 21, 2024 | <a href="https://indico.sissa.it/event/107/" target="_blank">Scientific Machine Learning, emerging topics</a> <br/> Co-organized by Gianluigi Rozza | Trieste, Italy |
 | July 8 – 12, 2024 | <a href="https://irma.math.unistra.fr/~micheldansac/SciML2024/" target="_blank">Workshop on Scientific Machine Learning</a> <br/> Co-organized by Bruno Després and Victorita Dolean | Strasbourg, France |
-| March 24 – 28, 2025 | Save the Date: Workshop on Scientific Machine Learning<br/> Organized by Marco Verani | Milan, Italy |
+| March 24 – 28, 2025 | Save the Date: Annual Workshop of the EMS TAG SciML on Scientific Machine Learning<br/> Organized by Marco Verani | Milan, Italy |
 
 
 <!--
