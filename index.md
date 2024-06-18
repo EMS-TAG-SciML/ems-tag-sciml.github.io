@@ -36,6 +36,10 @@ In the field of numerically efficient machine learning, new or improved numerica
 
 <i>[1] The term “Scientific Machine Learning” (SciML) has been coined at a workshop of the US Department of Energy in January 2018; for a broader description of the field, see the resulting report [osti.gov/servlets/purl/1478744](https://www.osti.gov/servlets/purl/1478744).</i>
 
+## Mailing List
+
+To subscribe to our mailing list, send an e-mail to ems-tag-sciml-chair@listes.math.cnrs.fr
+
 ## Group Members
 
 <b>Spokesperson:</b> [Axel Klawonn](mailto:axel.klawonn@uni-koeln.de), Chair of Applied Mathematics and Scientific Computing, University of Cologne, Cologne, Germany
