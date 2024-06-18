@@ -38,7 +38,7 @@ In the field of numerically efficient machine learning, new or improved numerica
 
 ## Mailing List
 
-To subscribe to our mailing list, send an e-mail to ems-tag-sciml-chair@listes.math.cnrs.fr
+To subscribe to our mailing list, send an e-mail to [ems-tag-sciml-chair@listes.math.cnrs.fr](mailto:ems-tag-sciml-chair@listes.math.cnrs.fr).
 
 ## Group Members
 
