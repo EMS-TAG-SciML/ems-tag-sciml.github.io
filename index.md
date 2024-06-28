@@ -68,7 +68,7 @@ To contact the spokespersons, send an e-mail to [ems-tag-sciml-chair@listes.math
 * [Ozan Öktem](mailto:ozan@kth.se), Numerik, Optimering, and System, KTH Stockholm, Stockholm, Sweden
 * [Gianluigi Rozza](mailto:grozza@sissa.it), SISSA, Trieste, Italy
 * [Benjamin Sanderse](mailto:b.sanderse@cwi.nl), Department of Scientific Computing, CWI, Amsterdam, The Netherlands
-* [Marco Verani](mailto:marco.verani@polimi.it), MOX - Laboratory for Modeling and Scientific Computing, Politecnico di Milano, Milan, Italy
+* [Marco Verani](mailto:marco.verani@polimi.it), MOX - Laboratory for Modeling and Scientific Computing, Department of Mathematics, Politecnico di Milano, Milan, Italy
 * [Andrea Walther](mailto:andrea.walther@math.hu-berlin.de), Department of Mathematics, Humboldt-University of Berlin, Berlin, Germany
 
 ## Upcoming Events
