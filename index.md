@@ -38,7 +38,9 @@ In the field of numerically efficient machine learning, new or improved numerica
 
 ## Mailing List
 
-To subscribe to our mailing list, send an e-mail to [ems-tag-sciml-chair@listes.math.cnrs.fr](mailto:ems-tag-sciml-chair@listes.math.cnrs.fr).
+To subscribe to our mailing list, please send an email to one of the (co-)spokespersons: [Axel Klawonn](mailto:axel.klawonn@uni-koeln.de), [Virginie Ehrlacher](mailto:virginie.ehrlacher@enpc.fr), [Olga Mula](mailto:o.mula@tue.nl).
+
+<!--To subscribe to our mailing list, please send an e-mail to [ems-tag-sciml-chair@listes.math.cnrs.fr](mailto:ems-tag-sciml-chair@listes.math.cnrs.fr).-->
 
 ## Group Members
 
@@ -50,7 +52,7 @@ To subscribe to our mailing list, send an e-mail to [ems-tag-sciml-chair@listes.
 
 [Olga Mula](mailto:o.mula@tue.nl), Center for Analysis, Scientific Computing and Applications, Eindhoven University of Technology, Eindhoven, The Netherlands
 
-To contact the spokespersons, send an e-mail to [ems-tag-sciml-chair@listes.math.cnrs.fr](mailto:ems-tag-sciml-chair@listes.math.cnrs.fr).
+<!--To contact the spokespersons, send an email to [ems-tag-sciml-chair@listes.math.cnrs.fr](mailto:ems-tag-sciml-chair@listes.math.cnrs.fr).-->
 
 
 
