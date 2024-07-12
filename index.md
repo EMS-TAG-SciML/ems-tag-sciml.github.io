@@ -77,14 +77,12 @@ If you wish to unsubscribe from the mailing list, please send a message from the
 
 ## Upcoming Events
 
-| June 18 – 21, 2024 | <a href="https://indico.sissa.it/event/107/" target="_blank">Scientific Machine Learning, emerging topics</a> <br/> Co-organized by Gianluigi Rozza | Trieste, Italy |
-| July 8 – 12, 2024 | <a href="https://irma.math.unistra.fr/~micheldansac/SciML2024/" target="_blank">Workshop on Scientific Machine Learning</a> <br/> Co-organized by Bruno Després and Victorita Dolean | Strasbourg, France |
 | March 24 – 28, 2025 | Save the Date: Annual Workshop of the EMS TAG SciML on Scientific Machine Learning<br/> Organized by Marco Verani | Milan, Italy |
 
-
-<!--
 ## Past Events
 
-| February 27 – March 1, 2024 | <a href="https://www.siam.org/conferences/cm/conference/uq24" target="_blank">SIAM Conference on Uncertainty Quantification (UQ24)</a> | Trieste, Italy |
+| July 8 – 12, 2024 | <a href="https://irma.math.unistra.fr/~micheldansac/SciML2024/" target="_blank">Workshop on Scientific Machine Learning</a> <br/> Co-organized by Bruno Després and Victorita Dolean | Strasbourg, France |
+| June 18 – 21, 2024 | <a href="https://indico.sissa.it/event/107/" target="_blank">Scientific Machine Learning, emerging topics</a> <br/> Co-organized by Gianluigi Rozza | Trieste, Italy |
 | April 25 – 26, 2024 | <a href="https://searhein.github.io/gamm-cominds-2024/" target="_blank">Workshop on Computational and Mathematical Methods in Data Science 2024</a> <br/> Organized by Alexander Heinlein | Delft, The Netherlands |
--->
+| February 27 – March 1, 2024 | <a href="https://www.siam.org/conferences/cm/conference/uq24" target="_blank">SIAM Conference on Uncertainty Quantification (UQ24)</a> | Trieste, Italy |
+
