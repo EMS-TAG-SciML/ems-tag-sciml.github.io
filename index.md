@@ -77,6 +77,7 @@ If you wish to unsubscribe from the mailing list, please send a message from the
 
 ## Upcoming Events
 
+| February 17 – 21, 2025 | <a href="https://dte_aicomas_2025.iacm.info/" target="_blank">AICOMAS 2025</a><br/> ECCOMAS Artificial Intelligence and Computational Methods in Applied Science | Paris, France |
 | March 24 – 28, 2025 | Save the Date: Annual Workshop of the EMS TAG SciML on Scientific Machine Learning<br/> Organized by Marco Verani | Milan, Italy |
 
 ## Past Events
