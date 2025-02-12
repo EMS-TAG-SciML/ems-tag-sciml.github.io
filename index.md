@@ -78,7 +78,9 @@ If you wish to unsubscribe from the mailing list, please send a message from the
 ## Upcoming Events
 
 | February 17 – 21, 2025 | <a href="https://dte_aicomas_2025.iacm.info/" target="_blank">AICOMAS 2025</a><br/> ECCOMAS Artificial Intelligence and Computational Methods in Applied Science | Paris, France |
-| March 24 – 28, 2025 | Save the Date: Annual Workshop of the EMS TAG SciML on Scientific Machine Learning<br/> Organized by Marco Verani | Milan, Italy |
+| March 24 – 26, 2025 | <a href="https://www.mate.polimi.it/events/EMS-TAG-SciML-25/" target="_blank">Annual Meeting of EMS activity group on Scientific Machine Learning</a><br/> Organized by Marco Verani | Milan, Italy |
+| August 4 – 8, 2025 | <a href="https://sites.google.com/view/msml2025/home" target="_blank">MSML 2025</a><br/> Mathematical and Scientific Machine Learning | Naples, Italy |
+| October 16 – 17, 2025 | Save the Date: Annual GAMM COMinDS Meeting | TU Chemnitz, Germany |
 
 ## Past Events
 
