@@ -77,13 +77,14 @@ If you wish to unsubscribe from the mailing list, please send a message from the
 
 ## Upcoming Events
 
-| February 17 – 21, 2025 | <a href="https://dte_aicomas_2025.iacm.info/" target="_blank">AICOMAS 2025</a><br/> ECCOMAS Artificial Intelligence and Computational Methods in Applied Science | Paris, France |
 | March 24 – 26, 2025 | <a href="https://www.mate.polimi.it/events/EMS-TAG-SciML-25/" target="_blank">Annual Meeting of EMS activity group on Scientific Machine Learning</a><br/> Organized by Marco Verani | Milan, Italy |
 | August 4 – 8, 2025 | <a href="https://sites.google.com/view/msml2025/home" target="_blank">MSML 2025</a><br/> Mathematical and Scientific Machine Learning | Naples, Italy |
 | October 16 – 17, 2025 | Save the Date: Annual GAMM COMinDS Meeting | TU Chemnitz, Germany |
+| Oct. 27 – 31, 2025 (Autumn school) <br/> Dec. 1 – 3, 2025 (Workshop) | <a href="https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/synergies-in-numerical-linear-algebra-and-machine-learning/" target="_blank">Synergies in numerical linear algebra and machine learning</a><br/> Co-organized by Victorita Dolean, Alexander Heinlein, Benjamin Sanderse | CWI, Amsterdam, The Netherlands |
 
 ## Past Events
 
+| February 17 – 21, 2025 | <a href="https://dte_aicomas_2025.iacm.info/" target="_blank">AICOMAS 2025</a><br/> ECCOMAS Artificial Intelligence and Computational Methods in Applied Science | Paris, France |
 | July 8 – 12, 2024 | <a href="https://irma.math.unistra.fr/~micheldansac/SciML2024/" target="_blank">Workshop on Scientific Machine Learning</a> <br/> Co-organized by Bruno Després and Victorita Dolean | Strasbourg, France |
 | June 18 – 21, 2024 | <a href="https://indico.sissa.it/event/107/" target="_blank">Scientific Machine Learning, emerging topics</a> <br/> Co-organized by Gianluigi Rozza | Trieste, Italy |
 | April 25 – 26, 2024 | <a href="https://searhein.github.io/gamm-cominds-2024/" target="_blank">Workshop on Computational and Mathematical Methods in Data Science 2024</a> <br/> Organized by Alexander Heinlein | Delft, The Netherlands |
