@@ -77,7 +77,7 @@ If you wish to unsubscribe from the mailing list, please send a message from the
 
 ## Upcoming Events
 
-| October 16 – 17, 2025 | <a href="https://www.chemnitz-am.de/gamm-cmds2025/" target="_blank">Annual GAMM COMinDS Meeting</a> | TU Chemnitz, Germany |
+| October 16 – 17, 2025 | <a href="https://www.chemnitz-am.de/gamm-cmds2025/" target="_blank">Annual GAMM COMinDS Meeting</a><br/> Co-organized by Axel Klawonn | TU Chemnitz, Germany |
 | Oct. 27 – 31, 2025 (Autumn school) <br/> Dec. 1 – 3, 2025 (Workshop) | <a href="https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/synergies-in-numerical-linear-algebra-and-machine-learning/" target="_blank">Synergies in numerical linear algebra and machine learning</a><br/> Co-organized by Victorita Dolean, Alexander Heinlein, Benjamin Sanderse | CWI, Amsterdam, The Netherlands |
 | March 10 – 12, 2026 | <a href="https://cds.uni-koeln.de/en/workshops/ems-tag-sciml/save-the-date" target="_blank">EMS Topical Activity Group Scientific Machine Learning - 2nd Annual Meeting</a> | University of Cologne, Germany |
 
