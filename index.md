@@ -65,7 +65,7 @@ If you wish to unsubscribe from the mailing list, please send a message from the
 * [Victorita Dolean](mailto:victorita.dolean@strath.ac.uk), Dept. of Mathematics and Computer Science, Eindhoven University of Technology, Eindhoven, The Netherlands
 * [Virginie Ehrlacher](mailto:virginie.ehrlacher@enpc.fr) (Co-Spokesperson), Ecole des Ponts Paris Tech, Paris, France
 * [Alexander Heinlein](mailto:a.heinlein@tudelft.nl), Delft University of Technology, Delft, The Netherlands
-* [Jan Hesthaven](mailto:jan.hesthaven@epfl.ch), Chair of Computational Mathematics and Simulation Science, EPFL, Lausanne, Switzerland
+* [Jan Hesthaven](mailto:president@kit.edu), President of KIT / Chair of Computational Science and Engineering at KIT, Karlsruhe, Germany
 * [Axel Klawonn](mailto:axel.klawonn@uni-koeln.de) (Spokesperson), Chair of Applied Mathematics and Scientific Computing, University of Cologne, Cologne, Germany
 * [Rolf Krause](mailto:rolf.krause@usi.ch), Chair for Advanced Scientific Computing, Euler Institute, Università della Svizzera italiana, Lugano, Switzerland
 * [Olga Mula](mailto:olga.mula.hernandez@univie.ac.at) (Co-Spokesperson), Chair of Computational Partial Differential Equations, University of Vienna, Vienna, Austria
