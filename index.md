@@ -54,7 +54,7 @@ If you wish to unsubscribe from the mailing list, please send a message from the
 
 [Virginie Ehrlacher](mailto:virginie.ehrlacher@enpc.fr), Ecole des Ponts Paris Tech, Paris, France
 
-[Olga Mula](mailto:o.mula@tue.nl), Center for Analysis, Scientific Computing and Applications, Eindhoven University of Technology, Eindhoven, The Netherlands
+[Olga Mula](mailto:olga.mula.hernandez@univie.ac.at) (Co-Spokesperson), Chair of Computational Partial Differential Equations, University of Vienna, Vienna, Austria
 
 <!--To contact the spokespersons, send an email to [ems-tag-sciml-chair@listes.math.cnrs.fr](mailto:ems-tag-sciml-chair@listes.math.cnrs.fr).-->
 
