@@ -68,7 +68,7 @@ If you wish to unsubscribe from the mailing list, please send a message from the
 * [Jan Hesthaven](mailto:jan.hesthaven@epfl.ch), Chair of Computational Mathematics and Simulation Science, EPFL, Lausanne, Switzerland
 * [Axel Klawonn](mailto:axel.klawonn@uni-koeln.de) (Spokesperson), Chair of Applied Mathematics and Scientific Computing, University of Cologne, Cologne, Germany
 * [Rolf Krause](mailto:rolf.krause@usi.ch), Chair for Advanced Scientific Computing, Euler Institute, Università della Svizzera italiana, Lugano, Switzerland
-* [Olga Mula](mailto:o.mula@tue.nl) (Co-Spokesperson), Center for Analysis, Scientific Computing and Applications, Eindhoven University of Technology, Eindhoven, The Netherlands
+* [Olga Mula](mailto:olga.mula.hernandez@univie.ac.at) (Co-Spokesperson), Chair of Computational Partial Differential Equations, University of Vienna, Vienna, Austria
 * [Ozan Öktem](mailto:ozan@kth.se), Numerik, Optimering, and System, KTH Stockholm, Stockholm, Sweden
 * [Gianluigi Rozza](mailto:grozza@sissa.it), SISSA, Trieste, Italy
 * [Benjamin Sanderse](mailto:b.sanderse@cwi.nl), Department of Scientific Computing, CWI, Amsterdam, The Netherlands
