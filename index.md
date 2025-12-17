@@ -38,13 +38,9 @@ In the field of numerically efficient machine learning, new or improved numerica
 
 ## Mailing List
 
-To subscribe to our mailing list, please send a message from the email address you wish to be added to the mailing list to [sympa@listes.math.cnrs.fr](mailto:sympa@listes.math.cnrs.fr) with the following information:
-* Subject: <i>subscribe ems-tag-sciml FirstName Name</i>
-* Leave body/content empty.
+You can subscribe to our mailing list here: [https://lists.uni-koeln.de/mailman/listinfo/ems-tag-sciml](https://lists.uni-koeln.de/mailman/listinfo/ems-tag-sciml).
 
-If you wish to unsubscribe from the mailing list, please send a message from the email address you wish to be removed from the mailing list to [sympa@listes.math.cnrs.fr](mailto:sympa@listes.math.cnrs.fr) with the following information:
-* Subject: <i>unsubscribe ems-tag-sciml</i>
-* Leave body/content empty.
+You can unsubscribe from the mailing list via the same website (at the bottom of the [page](https://lists.uni-koeln.de/mailman/listinfo/ems-tag-sciml)).
 
 ## Group Members
 
