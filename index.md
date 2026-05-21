@@ -73,11 +73,12 @@ You can unsubscribe from the mailing list via the same website (at the bottom of
 
 ## Upcoming Events
 
-| March 10 – 12, 2026 | <a href="https://cds.uni-koeln.de/en/workshops/ems-tag-sciml/save-the-date" target="_blank">EMS Topical Activity Group Scientific Machine Learning - 2nd Annual Meeting</a><br/> Co-organized by Axel Klawonn | University of Cologne, Germany |
 | June 8 – 12, 2026 | <a href="https://majsc2026.pages.math.unistra.fr/" target="_blank">Workshop on Machine Learning and Automatic Differentiation in JAX for Scientific Computing</a> | University of Strasbourg, France |
+| May 19 – 20, 2027 | EMS Topical Activity Group Scientific Machine Learning - 3rd Annual Meeting<br/> Co-organized by Bruno Després & Virginie Ehrlacher | Sorbonne University, Paris, France |
 
 ## Past Events
 
+| March 10 – 12, 2026 | <a href="https://cds.uni-koeln.de/en/workshops/ems-tag-sciml/save-the-date" target="_blank">EMS Topical Activity Group Scientific Machine Learning - 2nd Annual Meeting</a><br/> Co-organized by Axel Klawonn | University of Cologne, Germany |
 | Oct. 27 – 31, 2025 (Autumn school) <br/> Dec. 1 – 3, 2025 (Workshop) | <a href="https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/synergies-in-numerical-linear-algebra-and-machine-learning/" target="_blank">Synergies in numerical linear algebra and machine learning</a><br/> Co-organized by Victorita Dolean, Alexander Heinlein, Benjamin Sanderse | CWI, Amsterdam, The Netherlands |
 | October 16 – 17, 2025 | <a href="https://www.chemnitz-am.de/gamm-cmds2025/" target="_blank">Annual GAMM COMinDS Meeting</a><br/> Co-organized by Axel Klawonn | TU Chemnitz, Germany |
 | August 4 – 8, 2025 | <a href="https://sites.google.com/view/msml2025/home" target="_blank">MSML 2025</a><br/> Mathematical and Scientific Machine Learning | Naples, Italy |
