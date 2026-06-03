@@ -14,7 +14,13 @@ layout: home
 	<br/>
 </div>
 
-<br/>
+<br>
+
+<p align="left">
+   <b>LinkedIn page: </b>
+   <a href="https://www.linkedin.com/company/ems-tag-scientific-machine-learning" target="_blank"><b>linkedin.com/company/ems-tag-scientific-machine-learning</b></a>
+</p>
+
 
 In recent years, the combination of numerical methods and machine learning has gained an ever increasing interest as a research field within Numerical Mathematics and Scientific Computing. To further foster this development on a European level, the Topical Activity Group Scientific Machine Learning [1] (SciML) of the European Mathematical Society (EMS TAG SciML) has been established. 
 
