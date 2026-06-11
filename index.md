@@ -80,7 +80,9 @@ You can unsubscribe from the mailing list via the same website (at the bottom of
 ## Upcoming Events
 
 | June 8 – 12, 2026 | <a href="https://majsc2026.pages.math.unistra.fr/" target="_blank">Workshop on Machine Learning and Automatic Differentiation in JAX for Scientific Computing</a> | University of Strasbourg, France |
+| Oct. 12 – 16, 2026 | <a href="https://project.inria.fr/mlsim2026/workshop/" target="_blank">Workshop Machine Learning + Simulation</a> | Université Côte d’Azur, Nice, France |
 | May 19 – 20, 2027 | EMS Topical Activity Group Scientific Machine Learning - 3rd Annual Meeting<br/> Co-organized by Bruno Després & Virginie Ehrlacher | Sorbonne University, Paris, France |
+
 
 ## Past Events
 
